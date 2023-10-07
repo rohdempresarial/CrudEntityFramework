@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mvccrud4.props" />
+</Project>
